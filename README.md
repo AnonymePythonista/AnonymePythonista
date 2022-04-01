@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @Mustapha.
-- 👀 I’m interested in python, and programming languages.
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on my website to share my open source apps.
-- 📫 How to reach me mustapha.benammare.99@gmail.com
+<h1>- 👋 Hey, I’m @Mustapha.</h1>
+- 👀 I’m interested in python, and programming languages and web-dev .
+- 🌱 I’m currently learning C and C++
+- 💞️ I’m looking to collaborate on my website to share my open source apps and projects with the <strong>wroldd</strong>.
+- 📫 How to reach me =>  <strong>mustapha.benammare.99@gmail.com</strong>
 
-Feel free to send me mails and if m currently making a team so if you wanna join it leave me a mail.
-
-skills {
-  python : 100%
-  webdev(html,css,js,vue,...) : 80¨%
-  C : 20%
-  java : 5%
-}
+<h1>My <strong>skills</strong></h1>
+<ul>
+  <li>Html <strong>100%</strong></li>
+  <li>Css <strong>100%</strong></li>
+  <li>Javascript <strong>100%</strong></li>
+  <li>Php <strong>70%</strong></li>
+  <li>Python <strong>100%</strong></li>
+  <li>C ++ <strong>50%</strong></li>
+  <li>C <strong>10%</strong></li>
+</ul>
